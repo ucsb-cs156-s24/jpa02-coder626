@@ -2,7 +2,7 @@
 
 Repo: [https://ucsb-cs156-s24/STARTER-jpa02](https://github.com/ucsb-cs156-s24/jpa02-coder626/blob/main/README.md)
 
-Deployed at: [https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](http://jpa02-coder626.dokku-03.cs.ucsb.edu)
+Deployed at: http://jpa02-coder626.dokku-03.cs.ucsb.edu
 
 
 # About this repo
